@@ -394,3 +394,4 @@ if __name__ == '__main__':
     print("Top fitness score: " + str(global_top_score))
     print("Gen of top score: " + str(global_gen_of_top_key))
     write_ans_files(global_top_key)
+    input("Press Enter to exit...")
